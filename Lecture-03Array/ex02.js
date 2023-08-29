@@ -19,8 +19,6 @@ for ( let show1 of values1 ){
 
 }
 
-
-
 for (let show2 of values2 ){
 
   for ( let show3 of values3){
